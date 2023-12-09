@@ -1,0 +1,49 @@
+body{
+    background-image: url(fon2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;            
+    background-size: cover;
+}
+h1{
+    font-style: italic;
+    color: aliceblue;
+    border-bottom-style: solid;
+    border-color: gray;
+    text-shadow: 3px 3px 2px grey;
+    box-shadow: 1px 2px 2px white;
+}
+#img1{
+    border-style: outset;
+    border-radius: 5px;
+    color: aliceblue;
+    float: left;
+    margin-right: 50px;
+}
+ul{
+    color: aliceblue;
+    font-style: italic;
+
+}
+p{
+    color: aliceblue;
+    font-style: italic;
+}
+img{
+    border-style: outset;
+    color: aliceblue;
+}
+h4{
+    color: aliceblue;
+    border-top-style: solid;
+    border-color: gray;
+}
+.fa-youtube{
+    color: red;
+    font-size: 70px;
+} 
+
+.fa-instagram{
+    color: orchid;
+    font-size: 70px;
+}
